@@ -1,6 +1,6 @@
 # cs361_microserviceA
 
-**Communication Contract:
+**Communication Contract:**
 
 **How to programmatically REQUEST data from this microservice:**
 Using a text file as a pipeline, write the item code/ vending machine button number to the text file.
