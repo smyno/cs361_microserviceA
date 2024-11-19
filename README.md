@@ -3,7 +3,9 @@
 How to programmatically **REQUEST** data from this microservice:
 Using a text file as a pipeline, write the item code/ vending machine button number to the text file.
 
-example call:
+example call: 
+with open('file.txt', 'w') as pipe:
+  pipe.write(item_code)
 
 
 How to programmatically **RECEIVE** data from this microservice:
