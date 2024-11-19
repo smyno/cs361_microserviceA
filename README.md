@@ -15,3 +15,4 @@ example call:
 open text file >> read automation code from text file
 
 **UML sequence diagram:**
+(docs/UML_diagram)
