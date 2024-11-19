@@ -14,4 +14,4 @@ Using a text file as a pipeline, read the data in the file, and check that it is
 example call:
 open text file >> read automation code from text file
 
-[UML sequence diagram:](docs/UML_diagram)
+[UML sequence diagram:](docs/UML.png)
